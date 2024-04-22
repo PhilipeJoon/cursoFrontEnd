@@ -1,0 +1,15 @@
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.contenedor{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#contador{
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}

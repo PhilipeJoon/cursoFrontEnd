@@ -1,0 +1,29 @@
+.contenedor{
+    display: flex;
+}
+
+.pagina{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.datos{
+    width: 260px;
+}
+
+.descripcion{
+    width: 700px;
+}
+
+.contenido{
+    width: 700px;
+    float: right;
+}
+
+.tresColumnasTexto{
+    display: flex;
+}

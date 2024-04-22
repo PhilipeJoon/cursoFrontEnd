@@ -1,0 +1,40 @@
+.contenedor{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.contenedor2{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+}
+
+.contenedor3{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 318px;
+    display: flex;
+}
+
+.cabecera1{
+    width: 500px;
+}
+
+.cabecera2{
+    width: 400px;
+}
+
+.cabecera3{
+    width: 250px;
+}
+
+.cabecera4{
+    width: 250px;
+}
+
+footer{
+    width: 900px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
