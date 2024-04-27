@@ -1,0 +1,116 @@
+body{
+    background: rgb(252,123,123);
+    background: linear-gradient(90deg, rgba(252,123,123,0.9473039215686274) 0%, rgba(255,221,201,1) 45%, rgba(251,250,237,1) 100%);
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+
+button{
+    border: 0;
+}
+
+.content{
+    background: rgb(52,40,255);
+    background: linear-gradient(90deg, rgba(52,40,255,0.9473039215686274) 0%, rgba(190,190,249,1) 45%, rgba(74,220,250,1) 100%);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.content2{
+    background: rgb(20,9,209);
+    background: linear-gradient(90deg, rgba(20,9,209,0.9473039215686274) 0%, rgba(212,212,247,1) 45%, rgba(237,249,251,1) 100%);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+#usuario{
+    width: 300px;
+    height: 300px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#vs{
+    width: 300px;
+    height: 300px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#cpu{
+    width: 300px;
+    height: 300px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#piedra{
+    width: 200px;
+    height: 200px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#imagenPiedra{
+    width: 100px;
+}
+
+#papel{
+    width: 200px;
+    height: 200px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#imagenPapel{
+    width: 100px;
+}
+
+#tijera{
+    width: 200px;
+    height: 200px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#imagenTijera{
+    width: 100px;
+}
+
+nav{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#inicioJuego{
+    border: 0;
+    background: rgb(52,40,255);
+    background: linear-gradient(90deg, rgba(52,40,255,0.9473039215686274) 0%, rgba(190,190,249,1) 45%, rgba(74,220,250,1) 100%);
+    font-size: larger;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    color: black;
+}
